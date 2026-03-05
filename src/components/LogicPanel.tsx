@@ -200,7 +200,7 @@ export default function LogicPanel({ question, otherQuestions, onClose, onSave }
           <Stack gap={0.5}>
             <FieldLabel>Target</FieldLabel>
             {otherQuestions.length === 0 ? (
-              <Typography variant="body2" color="text.secondary">
+              <Typography variant="body1" color="text.secondary">
                 Add more questions to select a target.
               </Typography>
             ) : (
