@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Atlas__get_atlas_components",
+      "mcp__Atlas__get_atlas_component_docs",
+      "Bash(python:*)",
+      "mcp__Atlas__get_atlas_icons",
+      "mcp__plugin_atlassian_atlassian__getAccessibleAtlassianResources",
+      "mcp__plugin_atlassian_atlassian__getConfluencePage",
+      "mcp__plugin_figma_figma__get_design_context",
+      "mcp__plugin_figma_figma__get_screenshot",
+      "mcp__plugin_figma_figma__get_metadata"
+    ]
+  }
+}
